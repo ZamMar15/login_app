@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261833109923",
+    "project_id": "flickfinder-111b1",
+    "storage_bucket": "flickfinder-111b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261833109923:android:eb80178f2525478b45ea16",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB907GMMnoUHZaezrrFwnwROKkZW1ie1kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

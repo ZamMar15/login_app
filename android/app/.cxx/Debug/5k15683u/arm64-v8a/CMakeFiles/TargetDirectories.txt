@@ -1,0 +1,2 @@
+C:/Users/ujjwa/Desktop/New folder/FLUTTER/login_app/android/app/.cxx/Debug/5k15683u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ujjwa/Desktop/New folder/FLUTTER/login_app/android/app/.cxx/Debug/5k15683u/arm64-v8a/CMakeFiles/rebuild_cache.dir

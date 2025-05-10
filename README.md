@@ -18,4 +18,4 @@ A simple Flutter application that demonstrates user authentication using Firebas
 - Firebase project with Email/Password sign-in enabled
 - Android Studio or VS Code
 
-### Setup
+

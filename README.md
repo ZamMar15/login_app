@@ -1,4 +1,7 @@
 # Flutter Firebase Login App
+![login](https://github.com/user-attachments/assets/320f5bf1-e0c1-4653-8237-428f6a7d57bb)
+
+
 
 A simple Flutter application that demonstrates user authentication using Firebase. This app allows users to register, log in, and log out using their email and password.
 
